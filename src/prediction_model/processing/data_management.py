@@ -3,6 +3,7 @@ import os
 import pandas as pd
 import joblib
 
+
 #Import other files/modules
 from prediction_model.config import config
 
