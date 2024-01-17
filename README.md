@@ -14,5 +14,5 @@
 
 | App | Link |
 | ------ | ------ |
-| Staging | https://docker-ml-cicd.herokuapp.com/docs |
+| Staging | https://docker-ml-cicd.githubaction.com/docs |
 | Production | https://docker-ml-cicd-prod.herokuapp.com/docs |
